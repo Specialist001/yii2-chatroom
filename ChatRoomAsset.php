@@ -13,7 +13,7 @@ use yii\web\AssetBundle;
 
 class ChatRoomAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/dasturchiuz/yii2-chatroom/asstes';
+    public $sourcePath = '@vendor/dasturchiuz/yii2-chatroom/assets';
 
     public $css = [
 
